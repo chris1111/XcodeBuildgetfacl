@@ -9,5 +9,5 @@ getfacl -h
 
 
 ### Usage:
-- Copy membershipPriv.h to  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/membershipPriv.h 
+- Copy membershipPriv.h to /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/membershipPriv.h 
 - Build with Xcode 
